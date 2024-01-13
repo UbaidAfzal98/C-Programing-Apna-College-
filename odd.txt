@@ -1,0 +1,2 @@
+The Odd Numbers Upto 25 are Given Below 
+1	3	5	7	9	11	13	15	17	19	21	23	25	
